@@ -14,7 +14,7 @@ public class Revisor {
         this.especialidad = especialidad;
         this.numeroArticulo = numeroArticulo;
     
-    //MÉTODOS GETTERS Y SETTERS
+    //MÉTODOS GETTERS Y SETTERS 
     }
     public String getAccesoId(){
         return accesoId;
