@@ -1,6 +1,6 @@
 package com.example.classes;
 
-import com.example.gestordearticulos.enums.*;
+import com.example.enums.*;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
