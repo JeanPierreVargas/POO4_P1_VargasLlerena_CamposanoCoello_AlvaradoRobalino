@@ -1,3 +1,5 @@
+package com.example.clases;
+
 public Autor extends Usuario{
     private String codigo, institucion, campoInvestigacion;
     publi Autor(String nombre, String apellido, String correo, String institucion, String campoInvestigacion,'a'){
