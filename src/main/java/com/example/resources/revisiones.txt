@@ -1,0 +1,4 @@
+479962288,usuario6,hola,A
+479962288,usuario2,hola;hola,R
+606439392,usuario6,hola;hola,A
+606439392,usuario3,hola;hola;hola;hola;hola;hola,R
