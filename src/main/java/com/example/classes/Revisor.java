@@ -1,4 +1,4 @@
-package com.example.clases;
+package com.example.classes;
 
 public class Revisor {
     //ATRIBUTOS

@@ -1,4 +1,4 @@
-package com.example.clases;
+package com.example.classes;
 public Usuario{
     private String nombre, apellido, correo;
     private char rol;
